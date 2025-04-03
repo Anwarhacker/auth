@@ -23,3 +23,21 @@ transporter.sendMail(mailOptions, function(error, info){
     console.log('Email sent:', info.response);
   }
 });
+
+
+
+
+// PORT=5001
+// MONGO_URI=mongodb://localhost:27017/email-app
+// # EMAIL_USER=patelanwar647@gmail.com
+// # EMAIL_PASS=Anwar@9663831731
+
+
+
+// EMAIL_USER=patelanwar647@gmail.com
+// EMAIL_PASS=rfyqmafshcjpwdqx
+
+// FAST2SMS_API_KEY=cdkU2hXWiVUjGfSyUwIHI9NGfVSGp58ZvMqJU1GxfwxH1tAGKdJMqJI4ZxNf
+
+
+
